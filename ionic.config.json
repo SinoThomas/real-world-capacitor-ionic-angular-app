@@ -1,0 +1,7 @@
+{
+  "name": "real-world-capacitor-ionic-angular-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
